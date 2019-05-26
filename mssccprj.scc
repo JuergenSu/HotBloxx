@@ -1,0 +1,9 @@
+SCC = This is a Source Code Control file
+
+[hotblocks.dsp]
+SCC_Aux_Path = "D:\Programme\Visual Source Safe 6.0d\VSS"
+SCC_Project_Name = "$/c++/hotblocks", WLKAAAAA
+
+[hotblocks.dsw]
+SCC_Aux_Path = "D:\Programme\Visual Source Safe 6.0d\VSS"
+SCC_Project_Name = "$/c++/hotblocks", WLKAAAAA
